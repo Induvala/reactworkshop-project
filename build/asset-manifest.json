@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcb6db62.chunk.css",
+    "main.js": "/static/js/main.6f5b9c72.chunk.js",
+    "main.js.map": "/static/js/main.6f5b9c72.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.02b2d17c.js",
+    "runtime~main.js.map": "/static/js/runtime~main.02b2d17c.js.map",
+    "static/js/2.2a1d29ae.chunk.js": "/static/js/2.2a1d29ae.chunk.js",
+    "static/js/2.2a1d29ae.chunk.js.map": "/static/js/2.2a1d29ae.chunk.js.map",
+    "static/js/3.5ba83888.chunk.js": "/static/js/3.5ba83888.chunk.js",
+    "static/js/3.5ba83888.chunk.js.map": "/static/js/3.5ba83888.chunk.js.map",
+    "static/js/4.36a8893b.chunk.js": "/static/js/4.36a8893b.chunk.js",
+    "static/js/4.36a8893b.chunk.js.map": "/static/js/4.36a8893b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.878bd7431f0b0f8f2cec1861fb73f6f9.js": "/precache-manifest.878bd7431f0b0f8f2cec1861fb73f6f9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fcb6db62.chunk.css.map": "/static/css/main.fcb6db62.chunk.css.map",
+    "static/media/global.css": "/static/media/TitilliumWeb-Regular.57e937e4.ttf",
+    "static/media/poster1.jpg": "/static/media/poster1.d5f2a7f4.jpg",
+    "static/media/poster2.jpg": "/static/media/poster2.81ccf144.jpg",
+    "static/media/poster3.jpg": "/static/media/poster3.e242f037.jpg",
+    "static/media/poster4.jpg": "/static/media/poster4.56f09724.jpg",
+    "static/media/poster5.jpg": "/static/media/poster5.5ef7f794.jpg",
+    "static/media/poster6.jpg": "/static/media/poster6.164b05a3.jpg",
+    "static/media/poster7.jpg": "/static/media/poster7.23ac494a.jpg",
+    "static/media/poster8.jpg": "/static/media/poster8.ef89f612.jpg",
+    "static/media/poster9.jpg": "/static/media/poster9.65d6d500.jpg"
+  }
+}
